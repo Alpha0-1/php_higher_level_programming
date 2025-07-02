@@ -1,0 +1,19 @@
+{
+    "name": "php/almost-a-circle",
+    "description": "An educational PHP OOP project modeling geometric shapes like Rectangle and Square.",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Models\\": "models/"
+        }
+    },
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Alpha0-1",
+            "email": "alphaomollo142@gmail.com"
+        }
+    ],
+    "license": "MIT"
+}
