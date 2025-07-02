@@ -1,0 +1,1 @@
+Class inheritance allows a child class to inherit properties and methods from a parent class.

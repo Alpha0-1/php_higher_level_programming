@@ -1,0 +1,1 @@
+Objects are mutable — changing a property affects the original unless cloned.

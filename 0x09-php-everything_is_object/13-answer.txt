@@ -1,0 +1,1 @@
+Functions are immutable in PHP — once defined, their code cannot be changed dynamically.

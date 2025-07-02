@@ -1,0 +1,1 @@
+Same reference means both variables point to the exact same memory location (use =& assignment).

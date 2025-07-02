@@ -1,0 +1,1 @@
+Shallow copy duplicates only top-level structure; nested items still refer to original.

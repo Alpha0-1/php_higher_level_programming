@@ -1,0 +1,1 @@
+ijson_decode(json_encode($object), true);

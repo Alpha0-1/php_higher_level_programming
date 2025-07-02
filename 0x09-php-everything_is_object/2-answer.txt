@@ -1,0 +1,1 @@
+No, unless explicitly assigned by reference or cloned, two variables pointing to objects are not the same object.

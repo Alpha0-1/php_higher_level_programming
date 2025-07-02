@@ -1,0 +1,1 @@
+Arrays are ordered maps used for storing sequences or associative data. Objects are instances of classes with behaviors (methods) and properties.

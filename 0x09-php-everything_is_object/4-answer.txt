@@ -1,0 +1,1 @@
+Yes, if two separate objects have identical properties and values, their content can be considered the same.

@@ -1,0 +1,1 @@
+Deep copy duplicates all nested objects/arrays so changes don't affect the original.

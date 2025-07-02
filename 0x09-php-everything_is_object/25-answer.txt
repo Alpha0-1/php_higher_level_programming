@@ -1,0 +1,1 @@
+Methods can be assigned to variables as closures or callable strings.

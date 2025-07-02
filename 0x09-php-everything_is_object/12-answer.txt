@@ -1,0 +1,1 @@
+Yes, objects in PHP are mutable — you can change their properties after instantiation.

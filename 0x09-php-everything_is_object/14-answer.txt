@@ -1,0 +1,1 @@
+Reference: variables point to the same memory. Copy: new memory allocated with same value.

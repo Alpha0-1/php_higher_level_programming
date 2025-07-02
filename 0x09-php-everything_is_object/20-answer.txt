@@ -1,0 +1,1 @@
+In PHP, everything isn’t strictly an object. Arrays are not objects, but objects behave similarly to arrays when accessed dynamically.

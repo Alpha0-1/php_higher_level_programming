@@ -1,0 +1,1 @@
+Variables are assigned by value by default in PHP. Use &= for reference assignment.

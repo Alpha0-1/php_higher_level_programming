@@ -1,0 +1,1 @@
+Classes themselves are not mutable, but their instantiated objects can be modified.

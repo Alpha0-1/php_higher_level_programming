@@ -1,0 +1,1 @@
+Same content means the data stored in the structures has equal values and structure, even if not the same reference.

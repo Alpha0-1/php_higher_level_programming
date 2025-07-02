@@ -1,0 +1,1 @@
+In PHP, arrays are compared loosely (==) based on key-value pairs. Strict comparison (===) also checks order and identity.

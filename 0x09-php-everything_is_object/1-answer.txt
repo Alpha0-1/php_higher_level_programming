@@ -1,0 +1,1 @@
+A variable holds a value directly (e.g., int, string), while an object is an instance of a class that encapsulates both data and behavior.

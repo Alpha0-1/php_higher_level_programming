@@ -1,0 +1,1 @@
+The inheritance chain is the hierarchy of parent classes from which a class inherits methods and properties.

@@ -1,0 +1,1 @@
+PHP handles memory automatically via garbage collection. References and clones affect memory usage differently.
