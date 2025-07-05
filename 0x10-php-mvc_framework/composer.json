@@ -1,0 +1,18 @@
+{
+    "name": "example/php-mvc-framework",
+    "description": "Educational PHP MVC Framework",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Core\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alpha0-1",
+            "email": "alphaomollo142@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
